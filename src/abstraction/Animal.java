@@ -9,7 +9,7 @@ public abstract class Animal {
 	}
 
 	public Animal(int age) {
-		super();
+
 		this.age = age;
 	}
 
